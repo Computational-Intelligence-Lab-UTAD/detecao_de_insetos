@@ -1,0 +1,5 @@
+train: data/obj/train/images
+val: data/obj/valid/images
+
+nc: 1
+names: ['Bedbug']
